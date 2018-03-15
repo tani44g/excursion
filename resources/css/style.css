@@ -34,3 +34,6 @@ p.para {
   font-size: 21px;
   color: Gray;
 }
+.logo img {
+  padding-top: 2%;
+}
