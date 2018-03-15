@@ -1,16 +1,36 @@
-.body {
+body {
   font-family: Verdana;
   background-color: Black;
-}
-.p {
-  color: Aquamarine;
-  font-size: 16px;
+  color: White;
   text-align: center;
-  text-decoration-line: underline;
 }
-.h1 {
+h1 {
   color: White;
   font-size: 50px;
   font-weight: normal;
   text-align: center;
+}
+p.big {
+  font-size: 42px;
+}
+.videos {
+  background-color: Black;
+  text-align: center;
+}
+#link p {
+  color: Aquamarine;
+  text-decoration-line: underline;
+  font-size: 16px;
+}
+.footer p {
+  color: Gray;
+  text-align: right;
+}
+.body p {
+  font-weight: 300;
+  font-size: 42px;
+}
+p.para {
+  font-size: 21px;
+  color: Gray;
 }
